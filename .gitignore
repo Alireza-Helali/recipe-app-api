@@ -140,7 +140,8 @@ pythonenv*
 .mypy_cache/
 .dmypy.json
 dmypy.json
-
+.idea/
+db.sqlite3
 # Pyre type checker
 .pyre/
 
